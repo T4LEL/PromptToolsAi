@@ -185,6 +185,7 @@ PromptTools.ai is a commercial platform. All rights reserved.
 ## 🚀 Ready to Transform Your Workflow?
 
 [**Get Started Free →**](https://prompttools.ai/auth/signup)
+https://prompttools.ai
 
 No credit card required. Cancel anytime. Start creating in 60 seconds.
 
