@@ -4,10 +4,7 @@
 
 Transform your content, career, and creativity with our curated collection of AI-powered tools. From crafting the perfect LinkedIn headline to generating viral TikTok scripts, PromptTools.ai brings professional-grade AI assistance to your fingertips.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://prompttools.ai)
-[![Built with Next.js](https://img.shields.io/badge/built%20with-Next.js%2016-black)](https://nextjs.org)
-[![Powered by OpenAI](https://img.shields.io/badge/powered%20by-OpenAI-blue)](https://openai.com)
-
+[![Live](https://img.shields.io/badge/demo-live-brightgreen)](https://prompttools.ai)
 ---
 
 ## ✨ What Makes Us Different
@@ -104,17 +101,6 @@ Write with clarity and impact:
 
 ---
 
-## 💻 Built With Modern Tech
-
-- **Next.js 16** - React framework with App Router for blazing-fast performance
-- **TypeScript** - Type-safe development for reliability
-- **Supabase** - Scalable backend with real-time capabilities
-- **OpenAI GPT-4** - Industry-leading AI models
-- **Stripe** - Secure payment processing
-- **Tailwind CSS** - Beautiful, responsive design
-
----
-
 ## 📊 Platform Features
 
 ### For Users
@@ -179,7 +165,6 @@ Write with clarity and impact:
 
 - 📧 **Email Support** - support@prompttools.ai
 - 💬 **Feature Requests** - We build what you need
-- 🐛 **Bug Reports** - help@prompttools.ai
 - 🌐 **Status Page** - Real-time platform status
 
 ---
@@ -187,18 +172,13 @@ Write with clarity and impact:
 ## 📱 Social Media
 
 Stay updated with new tools and features:
-
-- 🐦 [Twitter](https://twitter.com/prompttools_ai)
 - 💼 [LinkedIn](https://linkedin.com/company/prompttools-ai)
-- 📸 [Instagram](https://instagram.com/prompttools.ai)
 
 ---
 
 ## 📄 License
 
 PromptTools.ai is a commercial platform. All rights reserved.
-
-For licensing inquiries, contact: licensing@prompttools.ai
 
 ---
 
